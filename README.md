@@ -60,4 +60,19 @@ I design clean databases, analyze messy datasets, automate workflows, and build 
 ---
 
 ## 💻 Tech Stack
-**Databases:** SQL S
+**Databases:** SQL Server, MySQL  
+**Analysis:** SQL, Excel, Python (Pandas, NumPy)  
+**Visualization:** Power BI, Tableau, Matplotlib  
+**Tools:** SSMS, MySQL Workbench, Git, GitHub  
+
+---
+
+## 📈 Career Focus
+- Entry-level **Data Analyst** roles  
+- Open to internships, full-time roles, and real-world projects  
+
+📫 **GitHub:** https://github.com/Shivam00242  
+
+---
+
+📌 *Scroll through my repositories to see practical data analysis in action.*
